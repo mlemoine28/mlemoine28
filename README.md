@@ -1,6 +1,10 @@
 ## Hey! 👋 I'm Michael LeMoine
 
-I am currently a student at Get Coding, and I've recently completed my first project called Beat Sync Challenge. Check it out [here](https://mlemoine28.github.io/Beat-Sync-Challenge/)! 
+I am currently a student at Get Coding. I'm a substitute teacher with a passion for gaming and technology.
+
+I've recently completed my first project called Beat Sync Challenge. Check it out [here](https://mlemoine28.github.io/Beat-Sync-Challenge/)! 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlemoine28&layout=donut)](https://github.com/mlemoine28/github-readme-stats)
 
