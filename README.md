@@ -2,7 +2,7 @@
 
 I am currently a student at Get Coding, and I've recently completed my first project called Beat Sync Challenge. Check it out [here](https://mlemoine28.github.io/Beat-Sync-Challenge/)! 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlemoine28&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlemoine28&layout=donut)](https://github.com/mlemoine28/github-readme-stats)
 
 
 
