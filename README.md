@@ -1,6 +1,6 @@
 ## Hey! 👋 I'm Michael LeMoine
 
-I am currently a student at Get Coding. I'm a substitute teacher with a passion for gaming and technology.
+I am currently a student at Get Coding. I'm a substitute teacher with a passion for gaming, technology, and hockey.
 
 I've recently completed my first project called Beat Sync Challenge. Check it out [here](https://mlemoine28.github.io/Beat-Sync-Challenge/)! 
 
